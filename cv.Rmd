@@ -1,5 +1,5 @@
 ---
-title: "cv"
+title: "CV"
 output: html_document
 hidedate: true
 hiderelated: true
@@ -9,5 +9,4 @@ hidediscus: true
 <center>
 <iframe src="/cv/Wenxuan_Jiang_CV.pdf" width="100%" height="800" border="0"></iframe>
 </center>
-
-
+  
